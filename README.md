@@ -10,10 +10,13 @@ During the project, 3 versions of the web portal were presented, which can be se
 3 - third version (the last one) - https://prometheusqastage3.wixsite.com/skybot
 
 Below, I will present the short description of each week.
-
+<p>
 1 week - we analysed the importance of the first-level requirements using the Fibonacci scale; and evaluated the second-level requirements for their consistency with the logic according to the evaluation criteria.
+</p>
 <br>
+<p>
 2 week - developed initial test documentation (test plan) for the overall organisation of the testing process.
+</p>
 <br>
 3 week - get acquainted with the developed version of the portal and check the MVP (minimum viable product) for compliance with the customer's requirements, which were agreed upon during the first sprint, and determine what initial tests should be performed for the MVP of the portal.
 <br>
