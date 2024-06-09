@@ -9,7 +9,9 @@ During the project, 3 versions of the web portal were presented, which can be se
 2 - second version - https://prometheusqastage2.wixsite.com/skybot
 3 - third version (the last one) - https://prometheusqastage3.wixsite.com/skybot
 
+<p>
 Below, I will present the short description of each week.
+</p>
 <br>
 <p>
 1 week - we analysed the importance of the first-level requirements using the Fibonacci scale; and evaluated the second-level requirements for their consistency with the logic according to the evaluation criteria.
